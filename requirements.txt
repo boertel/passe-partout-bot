@@ -1,0 +1,4 @@
+click==6.6
+-e git+git@github.com:boertel/passe-partout.git@fd77f6939996357a57725d0d122ca8fcd1f789be#egg=passe_partout
+requests==2.10.0
+slackclient==1.0.1
